@@ -1,0 +1,24 @@
+{
+  "name": "react-professionalbackend",
+  "version": "1.0.0",
+  "description": "This is a CRM System Back-end Services for Customers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shivanktripathi/react-professionalbackend.git"
+  },
+  "keywords": [
+    "customers",
+    "react",
+    "backend"
+  ],
+  "author": "Shivank Tripathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivanktripathi/react-professionalbackend/issues"
+  },
+  "homepage": "https://github.com/shivanktripathi/react-professionalbackend#readme"
+}
